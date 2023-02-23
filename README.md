@@ -11,7 +11,11 @@ Supporting code for "Private Blotto: Viewpoint Competition with Polarized Agents
 ## Versions
 
 Python: 3.8.10
+
 numpy: 1.22.3
+
 pandas: 1.4.2
+
 matplotlib: 3.5.1
+
 json: 2.0.9
